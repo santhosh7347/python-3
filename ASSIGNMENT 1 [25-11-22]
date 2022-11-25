@@ -1,0 +1,11 @@
+
+  
+mylist=[10,20,30,50]
+ele=int(input("Enter search element"))
+if ele in mylist:
+   print("Element found")
+else:
+   print("Element not found")
+  
+
+    
