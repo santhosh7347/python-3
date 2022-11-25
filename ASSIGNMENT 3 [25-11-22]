@@ -1,0 +1,8 @@
+mylist=[10,2,30,1]
+sum=0
+for i in mylist:
+ if i%2==0:
+   sum=sum+i
+print("Sum of even= ",sum)
+ 
+    
